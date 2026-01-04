@@ -181,5 +181,5 @@ if mode == "Real-Time Example Simulation":
 # FOOTER
 st.markdown("---")
 st.caption(
-    "Final Year Project | AI-based Optical Fiber & AirFiber Monitoring with Explainable AI | Industry-Grade Prototype"
+    "Final Year Project | AI-based Optical Fiber & AirFiber Monitoring with Explainable AI | Done by Nityasri"
 )
